@@ -1,7 +1,6 @@
 import time
 import aiohttp
 import discord
-import importlib
 import os
 import sys
 
