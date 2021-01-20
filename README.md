@@ -1,5 +1,7 @@
 # cogs.py
-Basic discord.py repository to help you get started with cogs!
+
+This is a repository for discord.py beginners, this will help you understand how cogs work, how to use them, and hopefully teach you how to create you first command!
+
 
 # Instructions
 
