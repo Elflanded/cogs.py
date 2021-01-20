@@ -14,7 +14,17 @@ To setup the repository, go to `.env.example`, and enter your bot's information,
   DEVELOPERS=738604939957239930
   ```
   
+  ### How .env works.
+  
+  .env is a secret folder that is used to hide project crednitnals, we will use this to hide our bot token, IDs, and prefixes.
+  
+
 
 Once you're run, open up your console, then run `python main.py`.
+
+## How to make a cog
+
+To be written.
+
   
     
