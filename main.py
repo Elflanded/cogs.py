@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 
 from os import environ
+from utils import data
 
 bot = Bot(
     command_prefix=environ.get("DISCORD_PREFIX"), prefix=environ.get("DISCORD_PREFIX"),
